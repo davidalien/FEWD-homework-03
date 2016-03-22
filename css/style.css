@@ -1,0 +1,53 @@
+body *{
+	margin: 0, auto;
+	box-sizing: border-box;
+}
+
+header {
+	background: #FF0000;
+	padding: 10px;
+}
+
+header {
+background: #FBBBB9;
+border: 1px solid black;
+padding: 20px;
+}
+
+
+aside .placeholder {
+	background: #B5EAAA;
+	border: 1px solid black;
+	padding: 20px 200px;
+}
+
+aside {
+	background: #008000;
+	padding: 10px;
+	float: right;
+	width: 60%;
+}
+
+#main .placeholder {
+	background: #FFF380;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+#main {
+	background: #FFFF00;
+	padding: 10px;
+	width: 40%;
+}
+
+
+footer .placeholder {
+	background: #CCFFFF;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+footer {
+	background: #0000FF;
+	padding: 10px;
+}
